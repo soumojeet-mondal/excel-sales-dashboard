@@ -60,7 +60,7 @@ The dashboard analyzes sales executive performance across multiple cities and tr
 - Executive-wise sales tracking
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dataset.png)
 
 ## 📂 Dataset
 The raw data used for this dashboard is stored in the **RAW_DATA** sheet.
